@@ -1,0 +1,48 @@
+{
+  "category": "DEMON_ANGEL",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/drude",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "drude",
+    "name": "Drude",
+    "aliases": [
+      {
+        "name": "Drud"
+      },
+      {
+        "name": "Trude"
+      },
+      {
+        "name": "Drutt"
+      }
+    ],
+    "category": "DEMON_ANGEL",
+    "subcategory": "Nightmare demon",
+    "tags": [
+      "demon",
+      "nightmare",
+      "malevolent",
+      "folklore"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "German demon that sits on sleepers' chests causing nightmares and sleep paralysis",
+      "full": "German demon that sits on sleepers' chests causing nightmares and sleep paralysis"
+    }
+  }
+}
