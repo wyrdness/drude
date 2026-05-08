@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/drude",
     "maintainers": [
       {
@@ -19,68 +19,110 @@
   "phenomenon": {
     "id": "drude",
     "name": "Drude",
-    "aliases": [],
+    "aliases": [
+      { "name": "Trute", "language": "Middle High German" },
+      { "name": "Trud / Trut", "language": "Old High German / Bavarian" },
+      { "name": "Drud", "language": "Bavarian / Tyrolean dialect" }
+    ],
     "category": "DEMON_ANGEL",
-    "subcategory": "Nightmare demon",
+    "subcategory": "Germanic nightmare spirit",
     "tags": [
-      "folklore",
-      "mythology"
+      "germanic-folklore",
+      "nightmare",
+      "sleep-paralysis",
+      "witchcraft",
+      "bavaria",
+      "tyrol",
+      "mare"
     ],
     "status": "documented",
     "description": {
-      "summary": "German demon that sits on sleepers' chests causing nightmares and sleep paralysis This phenomenon represents an important part of Germanic folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-      "full": "German demon that sits on sleepers' chests causing nightmares and sleep paralysis This phenomenon represents an important part of Germanic folklore and cultural heritage, with documented accounts and traditions spanning generations."
+      "summary": "A malevolent nocturnal spirit of Southern German and Austrian folklore, the drude was held to press upon sleepers and cause nightmares; the term later became a generic word for 'witch' and gives its name to the Drudenfuss (pentagram) and Drudenstein (holed-pebble) protective charms.",
+      "full": "In Germanic folklore, the drude (Middle High German trute) is a malevolent nocturnal spirit, classed alongside alps, kobolds, and hags, especially prevalent in Southern Germany, Bavaria, Austria, and Tyrol. The drude was believed to participate in the Wild Hunt and was reckoned in medieval and early-modern demonologies as a particular order of demon. By the 16th century, 'drude' had become a generic descriptor for a witch. Two named protective objects derive from the tradition: the Drudenfuss, the pentagram, used as an apotropaic sign and named explicitly in Goethe's Faust (1808); and the Drudenstein, a naturally holed pebble hung in rooms, on cradles, or in stables in Bavaria to ward off nightmares and to protect horses against matted manes ('Marenflechten'). Jacob Grimm in his Deutsche Mythologie suggested the term derives euphemistically from MHG trût ('dear, beloved'), with an alternative scholarly thread linking it to the Norse valkyrie Þrúðr, daughter of Thor and Sif. The drude belongs to a wider Germanic complex of nightmare-figures alongside the Mahr, the Alp, and the Schrat, with parallels across Europe (English mare, Slavic Mara)."
     },
     "etymology": {
-      "origin": "| Germanic |",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Middle High German trute. Jacob Grimm proposes a euphemistic derivation from MHG trût ('dear, intimate'); a separate scholarly hypothesis connects the word to Old Norse Þrúðr (the valkyrie, daughter of Thor and Sif).",
+      "meaning": "A nocturnal spirit pressing upon or harassing sleepers; later, generically, 'witch'",
+      "first_use": "Attested from the medieval period; Drudenfuss recorded as a term since the 17th century in Justus Georg Schottelius (1612–1676)"
     }
   },
   "classification": {
     "taxonomy": {
       "category": "DEMON_ANGEL",
-      "type": "Nightmare demon",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Nocturnal spirit / witch",
+      "subtype": "Germanic nightmare-figure",
+      "variant": "Bavarian / Austrian / Tyrolean"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "alp", "name": "Alp", "relationship": "similar", "description": "Closely related Germanic nightmare-spirit pressing on sleepers" },
+      { "id": "mahr", "name": "Mahr", "relationship": "similar", "description": "German night-mare, comparable phenomenon" },
+      { "id": "mare", "name": "Mare", "relationship": "similar", "description": "Wider Germanic / Scandinavian mare/nightmare tradition" },
+      { "id": "night-hag", "name": "Night Hag", "relationship": "similar", "description": "Pan-cultural sleep-paralysis figure" },
+      { "id": "wild-hunt", "name": "Wild Hunt", "relationship": "related", "description": "Drude said to participate in the Germanic Wild Hunt" }
+    ]
   },
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Old-woman / hag form", "description": "Often imagined as a frightening old woman in 16th-century witch-context usage", "frequency": "common" },
+        { "feature": "Invisible weight on sleeper's chest", "description": "Felt rather than fully seen during nocturnal visitations", "frequency": "common" }
+      ],
+      "morphology": "Visualized variously across folklore as a hag-like or shadowy presence that imposes its weight on a sleeping victim."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Inducing nightmare and sleep paralysis", "description": "The drude was held to sit on a sleeper's chest and press the breath out, producing nightmare and a sense of suffocation", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Participation in the Wild Hunt", "description": "Said to ride with the Wild Hunt across the night sky", "frequency": "occasional", "evidence_level": "folklore" },
+      { "ability": "Witch-association", "description": "From the 16th century, drude becomes a generic descriptor for a witch with attendant powers", "frequency": "common", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["bedchambers", "stables (where horses' manes were said to be matted)"],
+      "patterns": [
+        "Visits sleepers between dusk and dawn",
+        "Targets isolated rural homes in Southern German folk tradition",
+        "Repelled by the Drudenfuss (pentagram) and Drudenstein (holed pebble)"
+      ]
     }
   },
   "distribution": {
     "range": {
-      "description": "| Germanic |",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe.",
+      "continents": ["Europe"],
+      "countries": ["Germany", "Austria", "Switzerland"],
+      "regions": [
+        "Bavaria",
+        "Tyrol",
+        "Southern Germany",
+        "Austria"
+      ]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Medieval",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Middle High German literary attestations of trute"
+      },
+      "peak_activity_periods": [
+        { "period": "16th–18th century", "description": "Drude functions as a generic word for witch in early-modern German-speaking Europe" }
+      ]
     }
   },
   "history": {
     "origins": {
-      "cultural_roots": "| Germanic |",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Pre-Christian Germanic spirit-beliefs about night-creatures pressing on sleepers, syncretized with medieval Christian demonology and early-modern witch-belief.",
+      "earliest_accounts": "Middle High German literary tradition; the Drudenfuss is attested in the writings of Justus Georg Schottelius (17th century).",
+      "folklore_connections": "Closely related to alp, mare, mahr, and night-hag traditions across Europe."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1500-01-01", "event": "By the 16th century 'drude' has become a generic descriptor for a witch in German-speaking lands", "significance": "Semantic broadening from spirit to witch", "source": "Wikipedia: Drude" },
+      { "date": "1612-01-01", "event": "Justus Georg Schottelius (1612–1676) records 'Drudenfuss' as a term for the pentagram", "significance": "Early lexicographic attestation of the apotropaic charm", "source": "Schottelius (17th century)" },
+      { "date": "1808-01-01", "event": "Goethe's Faust, Part One, names the Drudenfuss as the pentagram that traps Mephistopheles at Faust's door", "significance": "Canonical literary reference for the drude pentagram", "source": "Goethe, Faust I (1808)" },
+      { "date": "1835-01-01", "event": "Jacob Grimm's Deutsche Mythologie discusses the etymology and folklore of the drude", "significance": "Foundational 19th-century scholarly treatment", "source": "Jacob Grimm, Deutsche Mythologie (1835)" }
+    ],
+    "modern_era": "The drude survives as a folk-cultural memory in Bavaria and Tyrol, particularly through the Drudenfuss and Drudenstein charms, and is treated in modern Germanic folklore studies alongside the Alp and Mahr in scholarship on sleep-paralysis traditions."
   },
   "sightings": {
     "statistics": {
@@ -93,34 +135,106 @@
     "database_path": "./sightings/"
   },
   "evidence": {
-    "physical": [],
+    "physical": [
+      {
+        "id": "drude-evidence-drudenstein",
+        "type": "amulet",
+        "name": "Drudenstein",
+        "description": "A naturally formed pebble with a hole through it, hung in rooms, on cradles, or in stables in Bavaria as a charm against the drude and against matted horse manes ('Marenflechten').",
+        "status": "verified",
+        "analysis": "Material-culture object with documented apotropaic use in 18th- and 19th-century Bavarian folk practice.",
+        "source": "Wikipedia: Drude"
+      }
+    ],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "drude-evidence-faust",
+        "type": "literary work",
+        "name": "Goethe, Faust I",
+        "date": "1808",
+        "description": "Goethe's Faust uses the Drudenfuss explicitly as the pentagram that holds Mephistopheles at the threshold of Faust's study.",
+        "status": "verified",
+        "analysis": "The most canonical literary attestation of the Drudenfuss / drude charm.",
+        "source": "Goethe, Faust I (1808)"
+      },
+      {
+        "id": "drude-evidence-grimm",
+        "type": "book",
+        "name": "Jacob Grimm, Deutsche Mythologie",
+        "date": "1835",
+        "description": "Foundational 19th-century scholarly treatment of Germanic mythology, with discussion of the drude.",
+        "status": "verified",
+        "analysis": "Anchors the modern academic understanding of drude folklore.",
+        "source": "Grimm, Deutsche Mythologie (1835)"
+      }
+    ]
   },
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Spirit nightmare-figure",
+        "description": "Traditional Germanic interpretation in which the drude is a real spirit causing nightmare by physically pressing upon sleepers.",
+        "proponents": ["German folkloric tradition"],
+        "evidence_cited": ["Continuous tradition of bedroom apotropaic practices"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Sleep paralysis",
+        "description": "Modern sleep medicine identifies the experiences underlying drude folklore — the 'pressure on the chest' nightmare with felt presence — as classic sleep paralysis with hypnagogic/hypnopompic hallucinations.",
+        "proponents": ["Modern sleep medicine and cultural psychology of sleep paralysis"],
+        "evidence_cited": ["Cross-cultural prevalence of pressing-night-being figures (Old Hag, kanashibari, etc.)"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Witch-belief construction",
+        "description": "Folklorists treat the early-modern broadening of 'drude' to mean 'witch' as a culturally specific phase in the wider European witch-belief complex.",
+        "proponents": ["Modern German folklore scholarship"],
+        "evidence_cited": ["Documented semantic shift in 16th-century records"]
+      }
+    ]
   },
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Bavarian and Tyrolean folk tradition",
+        "Drudenfuss (pentagram) apotropaic practice",
+        "Drudenstein (holed-pebble) apotropaic practice"
+      ],
+      "stories": [
+        "Goethe, Faust I — Mephistopheles trapped by the Drudenfuss"
+      ],
+      "beliefs": "The drude was kept at bay by the Drudenfuss drawn or carved at thresholds, and by Drudensteine hung in bedrooms, cradles, and stables."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Goethe, Faust I (1808)",
+        "Jacob Grimm, Deutsche Mythologie (1835)"
+      ],
       "film_tv": [],
       "games": [],
-      "other": []
+      "other": [
+        "Drudenfuss carvings on traditional Alpine doorways and beams",
+        "Drudensteine preserved in Bavarian folk-museum collections"
+      ]
     }
   },
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Jacob Grimm", "affiliation": "Berlin", "contribution": "Foundational treatment in Deutsche Mythologie (1835)", "period": "19th century" },
+      { "name": "Justus Georg Schottelius", "affiliation": "German philology", "contribution": "Early lexicographic attestation of Drudenfuss", "period": "17th century" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Active scholarship in Germanic folklore continues to study the drude alongside the Alp and Mahr in the wider context of sleep-paralysis folk traditions."
   },
-  "sources": []
+  "sources": [
+    { "id": "wikipedia-drude", "type": "website", "title": "Drude", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Drude", "accessed": "2026-05-07" },
+    { "id": "grimm-1835", "type": "book", "title": "Deutsche Mythologie", "authors": ["Jacob Grimm"], "date": "1835" },
+    { "id": "goethe-faust-i", "type": "book", "title": "Faust, Part One", "authors": ["Johann Wolfgang von Goethe"], "date": "1808" }
+  ]
 }

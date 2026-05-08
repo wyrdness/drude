@@ -1,321 +1,163 @@
 # Drude
 
-> *"Legends born from the shadows of reality"*
+> A malevolent nocturnal spirit of Southern German and Austrian folklore, the drude was held to press upon sleepers and cause nightmares; the term later became a generic word for 'witch' and gives its name to the Drudenfuss (pentagram) and Drudenstein (holed-pebble) protective charms.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-DEMON ANGEL-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `drude` |
 | **Category** | DEMON_ANGEL |
-| **Classification** | Nightmare demon |
-| **Primary Region** | Germany |
-| **Cultural Origin** | Germanic |
-| **Status** | Documented |
+| **Subcategory** | Germanic nightmare spirit |
+| **First recorded** | 1500-01-01 |
+| **Primary range** | Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-German demon that sits on sleepers' chests causing nightmares and sleep paralysis
-
-This phenomenon represents an important part of Germanic folklore and cultural heritage, with documented accounts and traditions spanning generations.
+In Germanic folklore, the drude (Middle High German trute) is a malevolent nocturnal spirit, classed alongside alps, kobolds, and hags, especially prevalent in Southern Germany, Bavaria, Austria, and Tyrol. The drude was believed to participate in the Wild Hunt and was reckoned in medieval and early-modern demonologies as a particular order of demon. By the 16th century, 'drude' had become a generic descriptor for a witch. Two named protective objects derive from the tradition: the Drudenfuss, the pentagram, used as an apotropaic sign and named explicitly in Goethe's Faust (1808); and the Drudenstein, a naturally holed pebble hung in rooms, on cradles, or in stables in Bavaria to ward off nightmares and to protect horses against matted manes ('Marenflechten'). Jacob Grimm in his Deutsche Mythologie suggested the term derives euphemistically from MHG trût ('dear, beloved'), with an alternative scholarly thread linking it to the Norse valkyrie Þrúðr, daughter of Thor and Sif. The drude belongs to a wider Germanic complex of nightmare-figures alongside the Mahr, the Alp, and the Schrat, with parallels across Europe (English mare, Slavic Mara).
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Trute | Middle High German |  |
+| Trud / Trut | Old High German / Bavarian |  |
+| Drud | Bavarian / Tyrolean dialect |  |
 
-### Primary Name
-- **Drude** — Southern Germany
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Drud | Germany | Traditional name |
-| Trude | Germany | Traditional name |
-| Drutt | Germany | Traditional name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: DEMON_ANGEL
-├── Type: Nightmare demon
-└── Origin: Germanic
-```
+- **Origin**: Middle High German trute. Jacob Grimm proposes a euphemistic derivation from MHG trût ('dear, intimate'); a separate scholarly hypothesis connects the word to Old Norse Þrúðr (the valkyrie, daughter of Thor and Sif).
+- **Meaning**: A nocturnal spirit pressing upon or harassing sleepers; later, generically, 'witch'
+- **First use**: Attested from the medieval period; Drudenfuss recorded as a term since the 17th century in Justus Georg Schottelius (1612–1676)
 
 ---
-
-## Characteristics
-
-### Description
-
-German demon that sits on sleepers' chests causing nightmares and sleep paralysis
-
-### Cultural Significance
-
-This entity holds significant meaning within Germanic culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Germany
-
-The phenomenon is primarily reported in Germany, with strongest traditions in Germanic communities.
-
-### Cultural Context
-
-- **Origin Culture:** Germanic
-- **Geographic Focus:** Germany
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Drude originates from Germanic tradition in Germany. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Drude features prominently in Germanic folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Germany, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Germanic belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Germanic tradition, the Drude represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Germanic culture, the Drude:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Drude phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
-
-- [Succubus/Incubus](/succubus-incubus) - Night-visiting demons
-- [Mare](/nightmare) - Dream demon entity
-- [Alp](/alp) - Germanic nightmare demon
-
----
-
-## Sources & Further Reading
-
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
-
-### Recommended Starting Points
-
-- Academic studies of Germanic folklore
-- Anthropological surveys of Germany
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+- [Alp](../alp/) — _similar_: Closely related Germanic nightmare-spirit pressing on sleepers
+- [Mahr](../mahr/) — _similar_: German night-mare, comparable phenomenon
+- [Mare](../mare/) — _similar_: Wider Germanic / Scandinavian mare/nightmare tradition
+- [Night Hag](../night-hag/) — _similar_: Pan-cultural sleep-paralysis figure
+- [Wild Hunt](../wild-hunt/) — _related_: Drude said to participate in the Germanic Wild Hunt
 
 ---
+## Physical Description
 
-## Contribution Guidelines
+- **Morphology**: Visualized variously across folklore as a hag-like or shadowy presence that imposes its weight on a sleeping victim.
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
+### Features
 
-### How to Contribute
+| Feature | Description | Frequency |
+|---|---|---|
+| Old-woman / hag form | Often imagined as a frightening old woman in 16th-century witch-context usage | common |
+| Invisible weight on sleeper's chest | Felt rather than fully seen during nocturnal visitations | common |
 
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
+## Reported Abilities
 
-### Standards
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Inducing nightmare and sleep paralysis | The drude was held to sit on a sleeper's chest and press the breath out, producing nightmare and a sense of suffocation | always | folklore |
+| Participation in the Wild Hunt | Said to ride with the Wild Hunt across the night sky | occasional | folklore |
+| Witch-association | From the 16th century, drude becomes a generic descriptor for a witch with attendant powers | common | folklore |
 
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: bedchambers, stables (where horses' manes were said to be matted)
 
 ---
+## Distribution
 
+Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe.
+
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1500-01-01 | By the 16th century 'drude' has become a generic descriptor for a witch in German-speaking lands | Semantic broadening from spirit to witch |
+| 1612-01-01 | Justus Georg Schottelius (1612–1676) records 'Drudenfuss' as a term for the pentagram | Early lexicographic attestation of the apotropaic charm |
+| 1808-01-01 | Goethe's Faust, Part One, names the Drudenfuss as the pentagram that traps Mephistopheles at Faust's door | Canonical literary reference for the drude pentagram |
+| 1835-01-01 | Jacob Grimm's Deutsche Mythologie discusses the etymology and folklore of the drude | Foundational 19th-century scholarly treatment |
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Drudenstein |  | A naturally formed pebble with a hole through it, hung in rooms, on cradles, or in stables in Bavaria as a charm against the drude and against matted horse manes ('Marenflechten'). | verified |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Goethe, Faust I | 1808 | Goethe's Faust uses the Drudenfuss explicitly as the pentagram that holds Mephistopheles at the threshold of Faust's study. | verified |
+| Jacob Grimm, Deutsche Mythologie | 1835 | Foundational 19th-century scholarly treatment of Germanic mythology, with discussion of the drude. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Spirit nightmare-figure** _(German folkloric tradition)_
+
+Traditional Germanic interpretation in which the drude is a real spirit causing nightmare by physically pressing upon sleepers.
+
+### Scientific
+
+**Sleep paralysis** _(Modern sleep medicine and cultural psychology of sleep paralysis)_
+
+Modern sleep medicine identifies the experiences underlying drude folklore — the 'pressure on the chest' nightmare with felt presence — as classic sleep paralysis with hypnagogic/hypnopompic hallucinations.
+
+### Skeptical
+
+**Witch-belief construction** _(Modern German folklore scholarship)_
+
+Folklorists treat the early-modern broadening of 'drude' to mean 'witch' as a culturally specific phase in the wider European witch-belief complex.
+
+
+## Popular Culture
+
+**Literature**: Goethe, Faust I (1808); Jacob Grimm, Deutsche Mythologie (1835)
+
+**Other**: Drudenfuss carvings on traditional Alpine doorways and beams; Drudensteine preserved in Bavarian folk-museum collections
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jacob Grimm | Berlin | Foundational treatment in Deutsche Mythologie (1835) | 19th century |
+| Justus Georg Schottelius | German philology | Early lexicographic attestation of Drudenfuss | 17th century |
+
+Active scholarship in Germanic folklore continues to study the drude alongside the Alp and Mahr in the wider context of sleep-paralysis folk traditions.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "drude",
-  "name": "Drude",
-  "category": "DEMON_ANGEL",
-  "region": "Germany",
-  "culture": "Germanic",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Drude phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
